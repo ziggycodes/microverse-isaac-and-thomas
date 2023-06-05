@@ -51,3 +51,38 @@ nav ul li a{
 
 }
 
+
+/**styling projects section*/
+
+#projects{
+    background-color: rgb(97, 69, 97);
+    color:white;
+    padding:2.5rem;
+    
+}
+
+.project-heading{
+    margin: auto 27rem 4rem 27rem ;
+    text-align:center;
+}
+
+.projects-group{
+    display:flex;
+    justify-content: space-between;
+}
+
+.project-tile img{
+    width:28rem;
+    height: 32rem;
+    object-fit: contain;
+}
+
+figcaption{
+    color:white;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+
+
+
