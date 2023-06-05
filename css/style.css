@@ -14,6 +14,8 @@ nav{
     background-color: maroon;
     display: flex;
     justify-content: flex-end;
+    position:fixed;
+    width:100%;
 }
 
 nav ul{
@@ -81,6 +83,10 @@ figcaption{
     color:white;
     font-size: 1.5rem;
     text-align: center;
+    text-decoration: none;
+}
+
+.project-tile a{
     text-decoration: none;
 }
 /** styling profile-link section*/
