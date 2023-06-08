@@ -81,8 +81,33 @@ figcaption{
     color:white;
     font-size: 1.5rem;
     text-align: center;
+    text-decoration: none;
 }
+/** styling profile-link section*/
+#profile-link{
+    background-color: rgb(24, 70, 70);
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 10rem;
+    height: 36rem;
+}
+.contact-header{
+    font-size: 2rem;
+    text-align: center;
+    color: white;
 
+}
+.logo-div{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 2rem;
+    margin: auto 1rem;
+}
+.logo-div a{
+    color: white;
+    text-decoration: none;
+}
 
 
 
